@@ -25,3 +25,4 @@ def extract_text(path):
     else:
         return extract_text_generic(path)
 
+
